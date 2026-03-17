@@ -11,4 +11,4 @@ Third-party libraries and dependencies are licensed under their respective
 licenses and remain the property of their respective owners.
 
 For copyright or licensing inquiries, contact:
-rostysla@gmail.com
+rostyslav777x@gmail.com
