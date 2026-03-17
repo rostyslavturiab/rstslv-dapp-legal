@@ -42,4 +42,4 @@ for gameplay profiles in this version of the App.
 7. Contact
 
 If you have privacy questions, contact:
-rostysla@gmail.com
+rostyslav777.x@gmail.com
