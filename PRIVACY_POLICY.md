@@ -28,18 +28,33 @@ the Solana blockchain, which is public and immutable by design.
 The App may use third-party infrastructure providers (for example Solana RPC
 providers and ecosystem tooling) to enable network functionality.
 
-5. Data Sharing
+5. Advertising, Ad Identifiers, and Ad Providers
+
+The App may display ads via third-party ad networks, including Google AdMob.
+These providers may process advertising identifiers from your device (for
+example Android Advertising ID) and limited technical data (such as device
+type, app/session metadata, and ad interaction events) to deliver, measure,
+and improve ads, including personalized or non-personalized ads depending on
+your device/account settings and applicable law.
+
+Learn more:
+- Google AdMob: https://admob.google.com/
+- Google Privacy & Terms: https://policies.google.com/privacy
+- Google ad settings: https://adssettings.google.com/
+
+6. Data Sharing
 
 We do not sell your personal data. We do not operate a central user database
 for gameplay profiles in this version of the App.
 
-6. Your Choices
+7. Your Choices
 
 - You can use core gameplay features without wallet interaction.
 - You can disconnect wallet usage by not initiating wallet actions.
 - You can clear local app data via device settings.
+- You can limit ad personalization in your device or Google account settings.
 
-7. Contact
+8. Contact
 
 If you have privacy questions, contact:
 rostyslav777.x@gmail.com
